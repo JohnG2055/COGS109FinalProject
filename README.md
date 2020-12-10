@@ -1,7 +1,7 @@
 # Final Project Guidelines
 
 ## Links
-Here is the <a href="https://www.kaggle.com/lepchenkov/usedcarscatalog/notebooks" target="_blank">link</a> to the dataset on Kaggle.<br/>
+Here is the <a href="https://www.kaggle.com/lepchenkov/usedcarscatalog" target="_blank">link</a> to the dataset on Kaggle.<br/>
 
 Here is the <a href="https://docs.google.com/spreadsheets/d/1MNRUlCT80LBWZ3OJd2nMgd6S8d6BOR2coVe3iDFE-Ks/edit?usp=sharing" target="_blank">link</a> to the Google Sign-Up Spreadsheet
 
