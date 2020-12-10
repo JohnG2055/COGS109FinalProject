@@ -1,8 +1,9 @@
 # Final Project Guidelines
 
 ## Links
-Here is the [link](https://www.kaggle.com/lepchenkov/usedcarscatalog/notebooks) to the dataset on Kaggle.<br/>
-Here is the [link](https://docs.google.com/spreadsheets/d/1MNRUlCT80LBWZ3OJd2nMgd6S8d6BOR2coVe3iDFE-Ks/edit?usp=sharing) to the Google Sign-Up Spreadsheet
+Here is the <a href="https://www.kaggle.com/lepchenkov/usedcarscatalog/notebooks" target="_blank">link</a> to the dataset on Kaggle.<br/>
+
+Here is the <a href="https://docs.google.com/spreadsheets/d/1MNRUlCT80LBWZ3OJd2nMgd6S8d6BOR2coVe3iDFE-Ks/edit?usp=sharing" target="_blank">link</a> to the Google Sign-Up Spreadsheet
 
 ## Project Overview
 The COGS 109 final project is meant to challenge students to apply data analysis techniques to real, large data sets to demonstrate their skills in data analysis, 
